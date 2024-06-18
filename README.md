@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm downy 👋
 
 <!--
 **downying/downying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
 <p>	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=downying&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=downying&layout=compact"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=downying&show_icons=true">
 </p>
 </div>
