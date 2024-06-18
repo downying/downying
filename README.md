@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
+<div>
 <p>	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkes811-inu&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=downying&show_icons=true">
